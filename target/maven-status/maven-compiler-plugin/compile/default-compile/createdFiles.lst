@@ -1,0 +1,8 @@
+com\thinkconstructive\books_store\dto\BookDto.class
+com\thinkconstructive\books_store\service\impl\BookServiceImpl.class
+com\thinkconstructive\books_store\BooksStoreApplication.class
+com\thinkconstructive\books_store\mapper\BookMapper.class
+com\thinkconstructive\books_store\repository\BookRepository.class
+com\thinkconstructive\books_store\controller\BookControler.class
+com\thinkconstructive\books_store\service\BookService.class
+com\thinkconstructive\books_store\Entity\Book.class
